@@ -1,6 +1,6 @@
 # HALF_SUBTRACTOR
 # AIM:
-To simulate and synthesis Half subtractor using Vivado software.
+To simulate and synthesis of Half subtractor using Vivado software.
 # APPARATUS REQUIRED:
 Vivado 2023.1 software.
 # Truth Table
@@ -20,5 +20,5 @@ Vivado 2023.1 software.
 <img width="960" alt="Screenshot 2024-03-25 215645" src="https://github.com/DeepanAnbazhagan/HALF_SUBTRACTOR/assets/164902865/7c08557b-9634-4148-8913-f0e2eb5a40af">
 
 # RESULT:
-Thus the simulate and synthesis  Half subtractor verified successfully by using Vivado software.
+Thus the simulate and synthesis of Half subtractor is verified successfully by using Vivado software.
 
