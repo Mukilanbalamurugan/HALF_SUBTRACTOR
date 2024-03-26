@@ -20,9 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module half_subtractor( D,Bo,A,B);
-input A,B;
-output D,Bo;
-                      //Write the logic for half subtractor in Dataflow modeling
-
-endmodule  
+ module Half_Subtractor(output D, Bo, input A, B);
+ assign D = A ^ B;
+ assign Bo = ~A & B;
+ endmodule
