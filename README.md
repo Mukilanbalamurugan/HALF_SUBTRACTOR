@@ -17,7 +17,8 @@ Vivado 2023.1 software.
 <img width="960" alt="Screenshot 2024-03-25 215559" src="https://github.com/DeepanAnbazhagan/HALF_SUBTRACTOR/assets/164902865/d194f3a7-c7a6-421d-b234-22872ffabad1">
 
 # Output:
-<img width="960" alt="Screenshot 2024-03-25 215645" src="https://github.com/DeepanAnbazhagan/HALF_SUBTRACTOR/assets/164902865/7c08557b-9634-4148-8913-f0e2eb5a40af">
+![halfsubtractor pic](https://github.com/Mukilanbalamurugan/HALF_SUBTRACTOR/assets/159005942/a2ed1604-a20e-4012-a269-3f16cf427429)
+
 
 # RESULT:
 Thus the simulate and synthesis of Half subtractor is verified successfully by using Vivado software.
